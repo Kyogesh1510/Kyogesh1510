@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kyogesh1510
+- 👋 Hi, I’m K yogesh
 - 👀 I’m interested in full  stack web developer
 - 🌱 I’m currently learning java fullstack
 - 📫 How to reach me kyogesh1510@gmail.com
