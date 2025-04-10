@@ -1,7 +1,6 @@
-
 # 👋 Hi there, I'm Yogesh K!
 
-🎓 I'm currently pursuing my **Master of Computer Applications (MCA)** at Nitte Meenakshi Institute of Technology, Bengaluru (Graduating August 2024). With a strong foundation in Core Java and full stack development, I enjoy building clean, efficient, and scalable web applications.
+🎓 I have completed my **Master of Computer Applications (MCA)** from Nitte Meenakshi Institute of Technology, Bengaluru. With a strong foundation in Core Java and full stack development, I enjoy building clean, efficient, and scalable web applications.
 
 ## 🚀 Technical Skills
 - **Languages:** Core Java, OOP, Collections, Exception Handling, Multithreading
